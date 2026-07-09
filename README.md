@@ -2,19 +2,18 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Assistente alla Correzione Formativa
 
-This contains everything you need to run your app locally.
+Uno strumento per insegnanti che genera feedback formativi strutturati per i testi degli studenti utilizzando l'AI. Si concentra sulla critica costruttiva per aiutare gli studenti a migliorare.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1QDzPa6U8g6CohOOeWop67SUmuUcHJjn0
 
-## Run Locally
+## Esecuzione Locale
 
-**Prerequisites:**  Node.js
+**Prerequisiti:** Node.js
 
-
-1. Install dependencies:
+1. Installa le dipendenze:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Imposta `GEMINI_API_KEY` in [.env.local](.env.local) con la tua chiave API Gemini
+3. Avvia l'app:
    `npm run dev`
