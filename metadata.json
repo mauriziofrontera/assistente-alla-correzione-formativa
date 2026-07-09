@@ -1,0 +1,6 @@
+{
+  "name": "Assistente alla Correzione Formativa",
+  "description": "An application for teachers to generate structured, formative feedback for student texts using AI. It focuses on constructive criticism to help students improve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
